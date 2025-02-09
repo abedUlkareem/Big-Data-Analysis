@@ -19,6 +19,9 @@ This project analyzes a large dataset of flight data containing 1,000,000 rows. 
 ### 5. Occupancy Rate Calculation
 - **Objective**: Calculate the occupancy rate for each flight departing from **John F. Kennedy International Airport** between **09:00 and 15:00**, and store the results in a file.
 
+
+
+
 #  Order Data Analysis
 
 process and analyze order data using Apache Spark. It processes a text file containing details of orders such as IDs,Product Code, quantities, and prices, then calculates the total value for each order based on this data.
@@ -32,6 +35,10 @@ process and analyze order data using Apache Spark. It processes a text file cont
 
 - **Order Total Values**: Calculate the total value for each order ID.
 - **Decimal Precision**: Ensure decimal precision by rounding the values to two decimal places.
+
+
+
+
 
 # Student and Major Data Analysis
 
