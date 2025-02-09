@@ -33,3 +33,24 @@ process and analyze order data using Apache Spark. It processes a text file cont
 - **Order Total Values**: Calculate the total value for each order ID.
 - **Decimal Precision**: Ensure decimal precision by rounding the values to two decimal places.
 
+# Student and Major Data Analysis
+
+This project performs data analysis on two datasets: students and majors. It joins the datasets based on a common key (the student ID) to extract information about students and their associated majors.
+
+## Tasks
+
+### 1. Data Loading
+- **Objective**: Load two datasets:
+  - **Students Dataset**: Contains student details like ID, first name, last name, Group ID.
+  - **Majors Dataset**: Contains major codes and their corresponding major names.
+
+### 2. Data Transformation
+- **Objective**: 
+  - Process the **students dataset** to extract student details and format them into a tuple consisting of the major and the full name (first and last names).
+  - Process the **majors dataset** to create tuples where the first element is the major code and the second element is the major name.
+
+### 3. Data Join
+- **Objective**: join between the two datasets using the major code to match students with their corresponding major names.
+
+### 4. Results Extraction
+- **Objective**: Extract and display the full name of students along with their major names.
