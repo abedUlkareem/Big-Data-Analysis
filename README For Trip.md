@@ -16,3 +16,18 @@ Calculate the number of overnight flights per month in 2024. These flights depar
 Occupancy Rate Calculation:
 
 Calculate the occupancy rate for each flight departing from "John F. Kennedy International Airport" between 09:00 and 15:00, and store the results in a file.
+
+#  Order Data Analysis
+
+process and analyze order data using Apache Spark. It processes a text file containing details of orders such as IDs,Product Code, quantities, and prices, then calculates the total value for each order based on this data.
+
+## Project Purpose
+
+- **Data Processing**: Analyze data using Apache Spark to improve performance when dealing with large datasets.
+- **Total Calculation**: Compute the total value of orders based on quantities and prices.
+
+## Expected Results
+
+- **Order Total Values**: Calculate the total value for each order ID.
+- **Decimal Precision**: Ensure decimal precision by rounding the values to two decimal places.
+
