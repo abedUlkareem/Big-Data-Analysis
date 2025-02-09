@@ -1,0 +1,10 @@
+6000,Muath,Omer,01
+6001,Jehad,Shadi,01
+6002,Salma,Ahmad,01
+6003,Sara,Ali,01
+6004,Suha,Jamil,01
+6005,Omer,Amer,01
+7000,Jamil,Khalid,02
+7001,Ali,Salem,02
+7002,Ahmad,Ali,02
+7003,Rasha,Shadi,02
